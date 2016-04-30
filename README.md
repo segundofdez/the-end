@@ -5,7 +5,7 @@ Just another way to say goodbye on your website using a pure css fake modal wind
 
 ## Instructions
 
-1- Add the-end.css to your project.
+Add the-end.css to your project.
 
 
 ## Contributing
