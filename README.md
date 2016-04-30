@@ -1,6 +1,6 @@
 # The end
 
-Just another way to say goodbye on your website using a pure css fake modal window
+Just another way to say goodbye on your website using a pure css fake modal window.
 
 
 ## Instructions
@@ -10,7 +10,7 @@ Just another way to say goodbye on your website using a pure css fake modal wind
 
 ## Contributing
 
-Please see [CONTRIBUTING](https://github.com/segundofdez/the-end/blob/dev/CONTRIBUTING.md) for details.
+Please see [CONTRIBUTING](https://github.com/segundofdez/the-end/blob/master/CONTRIBUTING.md) for details.
 
 
 ## Creators
@@ -26,4 +26,4 @@ Please see [CONTRIBUTING](https://github.com/segundofdez/the-end/blob/dev/CONTRI
 
 
 ## License
-Copyright (c) 2016 Segundo Fdez (http://segundofdez.com) Code released under the [the MIT license](https://github.com/segundofdez/the-end/blob/dev/LICENSE.md)
+Copyright (c) 2016 Segundo Fdez (http://segundofdez.com) Code released under the [the MIT license](https://github.com/segundofdez/the-end/blob/master/LICENSE.md)
