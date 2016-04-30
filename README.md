@@ -10,6 +10,12 @@ Just another way to say goodbye on your website using a pure css fake modal wind
 
 Add the-end.css to your project.
 
+### For more information about how to use content:
+https://www.w3.org/TR/css3-content/#inserting3
+
+### Some suggestions about how to shut down a website:
+https://www.smashingmagazine.com/2014/05/last-goodbye-shut-down-failing-product/
+
 
 ## Contributing
 
