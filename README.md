@@ -8,7 +8,8 @@ Just another way to say goodbye on your website using a pure css fake modal wind
 
 ## Instructions
 
-Add `the-end.css` to your project.
+**Option 1**: Add `the-end.css` to your project.
+**Option 2**: If you need something more awesome add `the-end-osm.css` and the html markup documented in the stylesheet.
 
 ### For more information about how to use content:
 https://www.w3.org/TR/css3-content/#inserting3
